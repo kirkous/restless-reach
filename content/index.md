@@ -2,12 +2,8 @@
 title: Restless Reach
 ---
 
-# Restless Reach
-
-Vanilla+ styl, kvalitní QoL, nové lokace a dungeony, seasons, více zbraní, early magie a další rozšíření bez kompletního překopání hry.
-
-## Server Guide
-
+# 📖 Server guide
+#### AI výgrc úprav
 - [[Nové funkce a hotkeys]]
 - [[Gameplay změny]]
 - [[Changelog]]

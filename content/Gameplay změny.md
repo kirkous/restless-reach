@@ -128,6 +128,12 @@ Například vanilla sledges stále používají svůj původní styl útoku a Ab
 
 Některé Flint zbraně jsou nahrazeny jejich ValheimArmory variantami.
 
+### Crossbows
+
+Nabitá kuše zůstává nabitá i po přepnutí na jinou zbraň nebo po jejím schování.
+
+Po opětovném vybavení proto není nutné kuši znovu nabíjet.
+
 ---
 
 ## 🔥 Early magic

@@ -1,8 +1,16 @@
 ---
 title: Changelog
 ---
-
 # Changelog
+## Aktualizace 27. 9. 2026
+
+### ⚔️ Combat & Weapons
+### **SaveCrossbowState**
+
+- přidáno zachování nabití crossbow při přepnutí na jinou zbraň nebo po schování
+- po opětovném vybavení zůstává crossbow nabitá
+
+---
 
 ## 24. 9. 2026 – Initial Server Configuration
 

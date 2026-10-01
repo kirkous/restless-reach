@@ -149,6 +149,17 @@ Early magic nepoužívá klasický Mistlands Eitr systém – některé stavy m�
 
 Díky tomu lze hrát magicky zaměřenou postavu výrazně dříve.
 
+### Výdrž Druidic Staffů
+
+Výdrž early magic staffů byla zvýšena, aby při běžném používání nebylo nutné příliš často odbíhat k Workbenchi na opravu.
+
+Druidic Staff of Fire, Ice, Poison a Spirit mají nyní:
+
+- základní durability: **100**
+- durability za další quality level: **+25**
+
+Damage ani ostatní combat statistiky staffů tím nejsou změněny.
+
 ---
 
 ## 🎒 Backpacky
@@ -210,6 +221,12 @@ Dosah distribuce je přibližně **10 metrů**.
 Nejde o teleportaci mezi sklady – materiály musí být stále fyzicky dopraveny na místo.
 
 Hmotnost naloženého cartu stále ovlivňuje jeho tahání.
+
+## 🌊 Plovoucí loot
+
+Dropnuté předměty se ve vodě nepotápějí a zůstávají na hladině.
+
+Platí to i pro loot získaný na moři, takže například **Serpent Meat** nebo ostatní dropy ze Sea Serpenta lze normálně sebrat z vody.
 
 ---
 

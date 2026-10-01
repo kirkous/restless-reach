@@ -1,6 +1,38 @@
 ---
 title: Changelog
 ---
+## 1. 10. 2026 – QoL & Early Magic
+
+### ⚔️ Combat & Weapons
+
+**ValheimArmory**
+
+- zvýšena durability všech Druidic Staffů
+    
+- Druidic Staff of Fire: **100 + 25 / quality**
+    
+- Druidic Staff of Ice: **100 + 25 / quality**
+    
+- Druidic Staff of Poison: **100 + 25 / quality**
+    
+- Druidic Staff of Spirit: **100 + 25 / quality**
+    
+- damage a ostatní combat statistiky beze změny
+    
+
+---
+
+### 🌊 Loot & Ocean QoL
+
+**Venture Floating Items**
+
+- přidán nový mod
+    
+- dropnuté itemy zůstávají plavat na vodní hladině
+    
+- změna se vztahuje i na Sea Serpent loot a ostatní předměty, které by se jinak potopily
+    
+- množství ani kvalita lootu nejsou změněny
 # Changelog
 ## Aktualizace 27. 9. 2026
 

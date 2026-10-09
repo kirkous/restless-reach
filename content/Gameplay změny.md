@@ -1,7 +1,6 @@
 ---
 title: Gameplay změny
 ---
-
 # Gameplay změny
 
 ## 👤 Osobní progression
@@ -203,6 +202,26 @@ Portály mohou být:
 - Private
 
 Vanilla omezení teleportace kovů a dalších zakázaných předmětů zůstává zachováno.
+
+---
+
+## 🐗 Ochočená zvířata – LetsGo
+
+LetsGo přidává příkazy **Follow / Stay** také ochočeným prasatům a dalším ochočeným tvorům včetně mláďat.
+
+- interakcí se zvířetem přepneš následování nebo čekání
+- `T` přivolá okolní ochočená zvířata mimo ohrady
+- doporučené nastavení přivolání: dosah **25 m**, nejvýše **5 zvířat**
+- zvířata rozpoznaná jako zavřená v ohradě se při hromadném přivolání ignorují; jde o odhad podle okolních staveb
+- tahání vozíků zvířaty je v doporučené konfiguraci vypnuté
+
+### Přeprava portálem
+
+LetsGo má zapnuté následování skrz portály; doporučený dosah od vstupního portálu je **8 m**. Zvíře musí mít aktivní Follow.
+
+**Kompatibilita s naším UnifiedTargetPortal zatím není ověřená.** Před převozem chovných zvířat otestuj cestu tam i zpět s jedním běžným ochočeným prasetem. Zapnutá volba sama o sobě nepotvrzuje funkční přepravu.
+
+Tyto hodnoty odpovídají návrhu konfigurace z 9. 10. 2026; nasazení a skutečné hodnoty je potřeba ověřit na serveru.
 
 ---
 

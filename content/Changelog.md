@@ -1,6 +1,21 @@
 ---
 title: Changelog
 ---
+## 9. 10. 2026 – LetsGo (připraveno k nasazení)
+
+### 🐗 Následování ochočených zvířat
+
+- Follow / Stay i pro ochočená prasata a další ochočené tvory včetně mláďat
+- `EnableFollow = true`
+- `EnablePackCall = true`, klávesa `T`
+- `Radius = 25`, `MaxTames = 5`, `IgnorePenned = true`
+- `EnableCarts = false`
+- `EnablePortalFollow = true`, `FollowRadius = 8`
+- kompatibilitní ochrany ponechat zapnuté
+
+
+---
+
 ## 1. 10. 2026 – QoL & Early Magic
 
 ### ⚔️ Combat & Weapons

@@ -53,3 +53,13 @@ Cesty snižují spotřebu staminy při běhu:
 - paved / stone – 25 %
 
 V zimě je pohyb mimo cesty pomalejší.
+
+## 🐗 Ochočená zvířata – LetsGo
+
+- interakce se zvířetem (`E` při běžném nastavení) – přepnout **Follow / Stay**
+- `T` – hromadně přivolat ochočená zvířata mimo ohrady
+- doporučený dosah přivolání: **25 m**, nejvýše **5 zvířat**
+- rozpoznávání ohrad je orientační; u chovných zvířat používej jednotlivé příkazy
+- tahání vozíků zvířaty je v doporučené konfiguraci vypnuté
+
+Pro následování portálem přiveď zvíře s aktivním Follow do **8 m** od vstupního portálu. **Fungování s UnifiedTargetPortal zatím čeká na test.** Hodnoty jsou návrh nastavení z 9. 10. 2026, nikoli potvrzení nasazení.
